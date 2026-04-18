@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","1627","TC01 - Valid user should land on Products page after login","chromium","2026-04-18","passed","2026-04-18","Login Page - Validation Tests","login.spec.js","",""
+"","6020","TC05 - Navigating to cart should show Your Cart page","chromium","2026-04-18","passed","2026-04-18","E2E Checkout Flow","checkout.spec.js","",""
+"","1221","TC03 - Empty credentials should show error message","chromium","2026-04-18","passed","2026-04-18","Login Page - Validation Tests","login.spec.js","",""
+"","6026","TC04 - Adding first item to cart should update cart badge to 1","chromium","2026-04-18","passed","2026-04-18","E2E Checkout Flow","checkout.spec.js","",""
+"","1338","TC02 - Locked out user should see error message","chromium","2026-04-18","passed","2026-04-18","Login Page - Validation Tests","login.spec.js","",""
+"","2200","TC06 - Full checkout flow should show order confirmation","chromium","2026-04-18","passed","2026-04-18","E2E Checkout Flow","checkout.spec.js","",""

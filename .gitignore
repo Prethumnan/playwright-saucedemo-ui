@@ -1,0 +1,6 @@
+# Never push environment secrets to GitHub
+.env
+
+node_modules/
+playwright-report/
+test-results/

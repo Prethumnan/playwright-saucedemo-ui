@@ -1,0 +1,17 @@
+{
+  "_comment": "Non-credential test data for checkout and form flows. Credentials live in .env",
+
+  "checkoutInfo": {
+    "firstName": "Test",
+    "lastName": "User",
+    "postalCode": "600001"
+  },
+
+  "expectedMessages": {
+    "lockedOutError": "Epic sadface: Sorry, this user has been locked out.",
+    "orderConfirmation": "Thank you for your order!",
+    "productsPageTitle": "Products",
+    "cartPageTitle": "Your Cart",
+    "checkoutCompleteTitle": "Checkout: Complete!"
+  }
+}
